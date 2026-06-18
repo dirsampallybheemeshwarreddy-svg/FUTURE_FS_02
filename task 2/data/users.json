@@ -1,0 +1,8 @@
+[
+  {
+    "username": "admin",
+    "password": "pbkdf2:sha256:260000$rN8ZqY2K$3f9e3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f",
+    "name": "Admin User",
+    "email": "admin@clientlead.com"
+  }
+]
